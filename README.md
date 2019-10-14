@@ -1,2 +1,3 @@
 # myrepo
-testing my workflow
+testing my workflow  
+This is a line from RStudio  
